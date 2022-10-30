@@ -1,0 +1,13 @@
+{
+  "name": "geo-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prolaxu/geo-api.git",
+  "author": "Laxman Adhikari <54370052+prolaxu@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "serverless-http": "^3.1.0",
+    "sqlite3": "^5.1.2"
+  }
+}
